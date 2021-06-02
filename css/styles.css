@@ -4,3 +4,31 @@
   border:solid black 3px;
   margin:1rem auto;
 }
+
+#add-calc {
+ background-color: rgb(202, 104, 120)
+}
+
+#minus-calc {
+  background-color: aqua;
+}
+#multiply-calc {
+  background-color: blueviolet;
+}
+
+#div-calc {
+background-color: rgb(116, 106, 106);
+}
+body {
+  background-image: url('../img/bg.jpg');
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-position: top center;
+}
+.btn {
+  margin-top:1rem;
+}
+.output {
+  font-size:2rem;
+  font-weight: bolder;
+}
